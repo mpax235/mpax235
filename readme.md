@@ -4,7 +4,7 @@ Come back soon for this readme section! Meanwhile check out my repos if you woul
 <h3 align="center">Currently the languages I know are:</h3>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,cpp" />
   </a><br>
   <a align="center">I also know Linux Shell language and Windows Batch language!</a>
 </p>
