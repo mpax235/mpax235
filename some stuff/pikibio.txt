@@ -1,0 +1,37 @@
+/* The official bio source code of mpax235. */
+
+[style=bg]https://f.feridinha.com/xPZhn.png[/style]
+
+/* About me section */
+[img]https://f.feridinha.com/hQjX8.png[/img]
+[img]https://f.feridinha.com/xAS3g.png[/img]
+
+[br]
+&nbsp;
+[br]
+
+/* Platforms section */
+[img]https://f.feridinha.com/mWo5T.png[/img]
+[url=https://twitch.tv/mpax235][img]https://f.feridinha.com/G54sf.png[/img][/url]
+
+[br]
+&nbsp;
+[br]
+
+/* Coding languages section */
+[img]https://f.feridinha.com/vL3fk.png[/img]
+HTML, CSS, JS, PowerShell, Python, C++ (little bit), Windows Batch, and Linux Shell
+
+[br]
+&nbsp;
+[br]
+
+/* Projects section */
+[img]https://f.feridinha.com/74exO.png[/img]
+Android All-in-One Script, mpax235 OS 7
+
+[br]
+&nbsp;
+[br]
+[marquee]UID: 265 | he/him[/marquee]
+[style=cursor]https://f.feridinha.com/bkBaF.png[/style]
