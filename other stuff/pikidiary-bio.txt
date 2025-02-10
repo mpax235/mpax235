@@ -13,6 +13,7 @@
 /* Platforms section */
 [img]https://f.feridinha.com/mWo5T.png[/img]
 [url=https://twitch.tv/mpax235][img]https://f.feridinha.com/G54sf.png[/img][/url]
+[url=https://github.com/mpax235][img]https://f.feridinha.com/fhO7D.png[/img][/url]
 
 [br]
 &nbsp;
@@ -20,7 +21,7 @@
 
 /* Coding languages section */
 [img]https://f.feridinha.com/vL3fk.png[/img]
-HTML, CSS, JS, PowerShell, Python, C++ (little bit), Windows Batch, and Linux Shell
+[img]https://f.feridinha.com/3ohtF.png[/img]
 
 [br]
 &nbsp;
@@ -28,10 +29,12 @@ HTML, CSS, JS, PowerShell, Python, C++ (little bit), Windows Batch, and Linux Sh
 
 /* Projects section */
 [img]https://f.feridinha.com/74exO.png[/img]
-Android All-in-One Script, mpax235 OS 7
+[img]https://f.feridinha.com/RDrZs.png[/img]
 
 [br]
 &nbsp;
 [br]
 [marquee]UID: 265 | he/him[/marquee]
+
+/* Cursors */
 [style=cursor]https://f.feridinha.com/bkBaF.png[/style]
