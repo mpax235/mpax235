@@ -7,7 +7,6 @@ I mainly program, make games, and more stuff like that!
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py" />
   </a><br>
-  <a align="center">I make:<
   <a align="center">The ones I know a little bit are:</a><br>
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,ts,haxeflixel" />
