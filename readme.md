@@ -5,7 +5,7 @@ I mainly program, make games, and more stuff like that!
 <h3 align="center">Currently the languages I know are:</h3>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,lua" />
   </a><br>
   <a align="center">I make:</a><br>
   <a href="https://skillicons.dev" align="center">
