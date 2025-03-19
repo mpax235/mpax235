@@ -2,8 +2,8 @@
 I mainly program, make games, and more stuff like that!
 
 <hr>
-<h3 align="center">Currently the languages I know are:</h3>
-<p align="center">
+<h3 align="left">Currently the languages I know are:</h3>
+<p align="left">
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,lua" />
   </a><br>
