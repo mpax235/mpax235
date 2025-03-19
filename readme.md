@@ -2,6 +2,7 @@
 I mainly program, make games, and more stuff like that!
 
 <hr>
+<img align="right" height="300" src="images/code.png">
 <h3 align="left">Currently the languages I know are:</h3>
 <p align="left">
   <a href="https://skillicons.dev" align="center">
