@@ -29,6 +29,9 @@ I mainly program, make games, and more stuff like that!
 <hr>
 <p align="center">
   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpax235&theme=algolia&layout=compact" width="333" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpax235&theme=algolia&layout=compact&hide_border=true" width="333" />
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpax235&theme=algolia&hide_border=true" width="333" />
   </a>
 </p>
