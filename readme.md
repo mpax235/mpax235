@@ -10,16 +10,20 @@ I mainly program, make games, and more stuff like that!
   </a><br><img width="48" height="48" src="images/sgc++.png" /><br>
   <a align="center">I make:</a><br>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=robloxstudio,haxeflixel,firebase" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,haxeflixel" />
   </a><br>
   <a align="center">The ones I know a little bit are:</a><br>
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,ts,haxe,cs,php" />
   </a><br>
-  <a align="center">The languages that I want to learn are:</a><br>
+  <a align="center">The modules that I use are:</a><br>
+  <a href="https://skillicons.dev" align="center">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a><br>
+  <a align="center">The languages/modules that I want to learn are:</a><br>
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=godot,react" />
-  </a><br><br>
+  </a><br><img width="48" height="48" src="images/mpaxfw.svg" /><br>
   <a align="center">I also know Linux Shell language and Windows Batch language!</a>
 </p>
 <hr>
