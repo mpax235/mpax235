@@ -7,7 +7,7 @@ I mainly program, make games, and more stuff like that!
 <p align="left">
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,lua" />
-  </a><img width="48" height="48" src="assets/sgc++.png" /><br>
+  </a><img width="48" height="48" src="images/sgc++.png" /><br>
   <a align="center">I make:</a><br>
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=robloxstudio,haxeflixel" />
