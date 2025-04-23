@@ -14,7 +14,7 @@ I mainly program, make games, and more stuff like that!
   </a><br>
   <a align="center">The ones I know a little bit are:</a><br>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,haxe,cs" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,ts,haxe,cs,php" />
   </a><br>
   <a align="center">The languages that I want to learn are:</a><br>
   <a href="https://skillicons.dev" align="center">
