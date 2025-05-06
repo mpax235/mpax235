@@ -27,11 +27,13 @@ I mainly program, make games, and more stuff like that!
   <a align="center">I also know Linux Shell language and Windows Batch language!</a>
 </p>
 <hr>
-<p align="center">
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpax235&theme=algolia&layout=compact&hide_border=true" width="333" />
-  </a>
-  <a href="#">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpax235&theme=algolia&hide_border=true" width="333" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpax235&theme=algolia&layout=compact&hide_border=true" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpax235&theme=algolia&hide_border=true" />
+    </td>
+  </tr>
+</table>
