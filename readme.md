@@ -8,9 +8,9 @@ I mainly program, make games, and more stuff like that!
   <a href="https://skillicons.dev" align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,lua" />
   </a><br><img width="48" height="48" src="images/sgc++.png" /><br>
-  <a align="center">I make:</a><br>
+  <a align="center">The software I use:</a><br>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=robloxstudio,haxeflixel" />
+    <img src="https://skillicons.dev/icons?i=robloxstudio,haxeflixel,blender" />
   </a><br>
   <a align="center">The ones I know a little bit are:</a><br>
   <a href="https://skillicons.dev" align="center">
