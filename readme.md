@@ -6,7 +6,7 @@ I mainly program, make games, and more stuff like that!
 <h3 align="left">Currently the languages I know are:</h3>
 <p align="left">
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,lua,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,powershell,py,lua,php,cpp" />
   </a><br><img width="48" height="48" src="images/sgc++.png" /><br>
   <a align="center">The software I use:</a><br>
   <a href="https://skillicons.dev" align="center">
@@ -14,7 +14,7 @@ I mainly program, make games, and more stuff like that!
   </a><br>
   <a align="center">The ones I know a little bit are:</a><br>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,ts,haxe,cs,swift" />
+    <img src="https://skillicons.dev/icons?i=c,ts,haxe,cs,swift" />
   </a><br>
   <a align="center">The modules/frameworks/libraries that I use are:</a><br>
   <a href="https://skillicons.dev" align="center">
