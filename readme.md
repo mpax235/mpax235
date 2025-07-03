@@ -1,4 +1,5 @@
-<h1 align="center">Hi! I'm mpax235!</h1>
+<img align="right" height="120" src="images/168873890.png">
+<h1 align="left">Hi! I'm mpax235!</h1>
 I mainly program, make games, and more stuff like that!
 
 <hr>
