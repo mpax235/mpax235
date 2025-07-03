@@ -1,4 +1,4 @@
-<h1>Hi! I'm mpax235!</h1>
+<h1 align="center">Hi! I'm mpax235!</h1>
 I mainly program, make games, and more stuff like that!
 
 <hr>
