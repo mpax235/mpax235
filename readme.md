@@ -11,7 +11,7 @@ I mainly program, make games, and more stuff like that!
   </a><br><img width="48" height="48" src="images/sgc++.png" /><br>
   <a align="center">The software I use:</a><br>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=blender,cmake,git,github,nodejs,npm,vite" />
+    <img src="https://skillicons.dev/icons?i=blender,cmake,git,github,nodejs,npm,vite,nginx,express,mysql" />
   </a><br>
   <a align="center">The IDE's that I use:</a><br>
   <a href="https://skillicons.dev" align="center">
