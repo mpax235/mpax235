@@ -46,7 +46,7 @@
 [br]
 &nbsp;
 [br]
-[marquee]UID: 265 | he/him[/marquee]
+[marquee]UID: 265 | he/him | Joined on 10/5/2024[/marquee]
 
 /* Cursors */
 [style=cursor]https://f.feridinha.com/38f0d.png[/style]
