@@ -1,7 +1,5 @@
 /* The official bio source code of mpax235. */
 
-[style=bg]https://f.feridinha.com/xPZhn.png[/style]
-
 /* About me section */
 [img]https://f.feridinha.com/hQjX8.png[/img]
 [img]https://f.feridinha.com/xAS3g.png[/img]
