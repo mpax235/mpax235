@@ -19,7 +19,7 @@ I mainly program, make games, and more stuff like that!
   </a><br>
   <a align="center">The ones I know a little bit are:</a><br>
   <a href="https://skillicons.dev" align="center">
-    <img src="https://skillicons.dev/icons?i=ts,haxe,cs,swift" />
+    <img src="https://skillicons.dev/icons?i=ts,haxe,cs,swift,go" />
   </a><br>
   <a align="center">The modules/frameworks/libraries that I use are:</a><br>
   <a href="https://skillicons.dev" align="center">
